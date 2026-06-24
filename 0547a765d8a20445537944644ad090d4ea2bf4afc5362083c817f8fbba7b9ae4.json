@@ -10,4 +10,16 @@
     }
   },
   "signature": "DFYUj3EgpSMIvo/Vo7KXiF8eOi991kPQ604NZS2bXMe04A1l6xQa+I7h0tt1PGRwu1w2xCz/Nrugyo6pO0+qXYnzE3+DCV+OQ25O0KJGKLmyzlXarrEvJD9MbRkHlmCplJzeMWwNoLlQyFKV/zpE3/BvX/MxKN9nx2zo6lx3KZayGamOG4FuyQRDjrvjS7RdAv6GuTcft8w9xj14tMXba5zxiMaYaGrn8k1CfgphwgeGUxxOUE3Awy0NvOZGOrqu7CKCDPenrbFEBXjKI+JkQTCXQVu2wBvwoIZKiE/TO0e9+gz+VBeBGwwM6BEkEcpPyPqt27RJ7wVteIUXf3ryCA=="
+}{
+  "data": {
+    "deviceId": "TEST-DEVICE-ID-12345",
+    "schoolName": "St. Joseph's School, Jalalpur",
+    "expiresAt": "2027-12-31T23:59:59Z",
+    "theme": {
+      "accent": "#F68C1F",
+      "lightBase": "#FAFBFD",
+      "darkBase": "#0F132B"
+    }
+  },
+  "signature": "DFYUj3EgpSMIvo/Vo7KXiF8eOi991kPQ604NZS2bXMe04A1l6xQa+I7h0tt1PGRwu1w2xCz/Nrugyo6pO0+qXYnzE3+DCV+OQ25O0KJGKLmyzlXarrEvJD9MbRkHlmCplJzeMWwNoLlQyFKV/zpE3/BvX/MxKN9nx2zo6lx3KZayGamOG4FuyQRDjrvjS7RdAv6GuTcft8w9xj14tMXba5zxiMaYaGrn8k1CfgphwgeGUxxOUE3Awy0NvOZGOrqu7CKCDPenrbFEBXjKI+JkQTCXQVu2wBvwoIZKiE/TO0e9+gz+VBeBGwwM6BEkEcpPyPqt27RJ7wVteIUXf3ryCA=="
 }
