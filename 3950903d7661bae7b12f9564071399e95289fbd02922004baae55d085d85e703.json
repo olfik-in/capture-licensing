@@ -1,4 +1,12 @@
 {
-  "protectedPayload": "eyJkZXZpY2VJZCI6Ik9MRklLLTQyMkI1QkNFLUQxRDREMSIsInNjaG9vbE5hbWUiOiJTdC4gSm9zZXBoJ3MgU2Nob29sLCBVcGRhdGUgU2VydmljZXMgQ2hlY2siLCJleHBpcnlEYXRlIjoiMjAyNy0xMi0zMVQyMzo1OTo1OVoiLCJ0aGVtZUNvbG9yIjoiIzBENzg5NyIsImFsbG93ZWRGZWF0dXJlcyI6WyJidWxrLXppcC1leHBvcnQiLCJjYW1lcmEtY2FwdHVyZSIsImV4Y2VsLXJvc3Rlci1pbXBvcnQiXX0=",
-  "signature": "cDfWdYoH74x4tDCDyRV2Mr/lO70n5szOV+s6venJf3/aZHsGJlKyjKCQyJ3q+8my9G7gyzblCz2ez59lSxS0WwuEa5QOYqDtgZNLmUx87wse0qQmyiUBsaDGI8v9aiRyn8LHhPakuTIjllQs9HMN/Rdz5CMZLoEdMp6vb6KDBdhPpPRnceD7pUkNx5JEFwNTd8VUhagW9WW0u8j1ZoC7FI6coTTZeOW2fvKYk5TX7+gsnTqyycL8FA2m30jH80Av9Jli4XbPslTJlvtFBDGSH3RepgoASXL4ineUk9odq7B/ldDIsPSEA00MeYqhKmCL1oXGJU5/LOgzuj+Pzuw5KQ=="
+  "data": {
+    "schoolName": "St. Joseph's School",
+    "expiresAt": "2027-12-31T00:00:00.000Z",
+    "theme": {
+      "accent": "#4F46E5",
+      "lightBase": "#FFFFFF",
+      "darkBase": "#0F172A"
+    }
+  },
+  "signature": "gZbFLhdvqu3OxAs/mfb5M34iKMYMk820MyQe44YmTd2ihdLWow0FZWRJQObLi1/XDauSrlNW9qlx5vSq67cdXZLVsfHMFHI3WQV3FlRHBuTCms5E+BMVx5ZXTcRO2RLgq+zoOh1GQYkRd1oCr95ReaOi9dibP3Wy0+L7kK5t3YQs3zHxHnkTXODjP/AEfsho6WBLMobAZOqU5dqsFFIJrE4v90i3Hw/AMt98fyO3ZO897kj1h3Kh82eSQsZw07XC+ywJvVoqDQzEwEOYEEOSrsZUq0pqFyf+zqjkqc3sBqJsshJLEXMmPZrhsUvsqbip3RqacBzhf8FstXEP7r5khA=="
 }
